@@ -1,0 +1,8 @@
+{
+  "name": "Paper Search",
+  "description": "An elegant and modern academic paper search engine powered by ArXiv API and optimized with Gemini AI for instant summarization and interactive Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
